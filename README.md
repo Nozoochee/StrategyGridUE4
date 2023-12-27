@@ -8,4 +8,4 @@ A grid system often found in strategy/tactics games built 100% in blueprints for
 - Simple AI that plays to the same rules
 
 ## Showcase video
-
+[Youtube](https://youtu.be/gpRWLXARPq4)
